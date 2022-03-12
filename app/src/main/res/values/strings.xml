@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Safe Home</string>
+
+    <string name="title_activity_tentang">About Me </string>
+</resources>

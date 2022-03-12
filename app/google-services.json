@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "518145133043",
+    "project_id": "doorcontrol-9a528",
+    "storage_bucket": "doorcontrol-9a528.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518145133043:android:976b03aba05b45cfd5aa86",
+        "android_client_info": {
+          "package_name": "com.skripsi.doorcontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518145133043-u7jvv6ekglo7jp7taknijh9q5lt4krmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZG1eU8eTddKcavr2Kw8hKVQOqcoO385o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518145133043-u7jvv6ekglo7jp7taknijh9q5lt4krmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
